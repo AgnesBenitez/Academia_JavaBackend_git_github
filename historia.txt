@@ -1,0 +1,51 @@
+  82  git init
+   83  git add .
+   84  git add .
+   85  git commit -m "first commit"
+   86  git branch -M main
+   87  git remote add origin https://github.com/AgnesBenitez/Academia_JavaBackend_git_github.git
+   88  git push -u origin main
+   89  ssh-keygen -t rsa -b 4096 -C "jobepr50@gmail.com"
+   90  eval $(ssh-agent -s)
+   91  ssh-add ~/.ssh/id_rsa
+   92  git remote -v
+   93  git remote -url origin git@github.com:AgnesBenitez/Academia_JavaBackend_git_github.git}
+   94  git remote set-url origin git@github.com:AgnesBenitez/Academia_JavaBackend_git_github.git
+   95  git pull
+   96  git pull origin main
+   97  git commit -m "actualizacion"
+   98  git pull origin main
+   99  git push origin main
+  100  git add .
+  101  git add .
+  102  git commit -m "act"
+  103  git push origin main
+  104  git log all
+  105  git log --all
+  106  git tag -a v0.1 -m "Resultado de las primeras clases"  386bafb5d6d80f27a540fab73f98e5b0aa844c6b
+  107  git tag
+  108  git show-ref --tags
+  109  history
+  110  git pull origin main
+  111  git pull origin main
+  112  git push origin --tags
+  113  $ git remote set-url origin git@github.com:AgnesBenitez/Academia_JavaBackend_git_github.git
+  114  git remote set-url origin https://github.com/AgnesBenitez/Academia_JavaBackend_git_github.git
+  115  git pull origin main
+  116  git push origin --tags
+  117  git log --all
+  118  git tag -a v0.2 -m "Resultado de los cambios" 3e94a6c9506541dc12f8fbddc656ca979eca651b
+  119  git pull origin main
+  120  git push origin --tags
+  121  git checkout cabecera
+  122  git show brand
+  123  git show-brand
+  124  git show-branch
+  125  git branch header
+  126  git branch footer
+  127  git push origin header
+  128  git push origin footer
+  129  history
+git branch master
+  131  git push origin master
+
